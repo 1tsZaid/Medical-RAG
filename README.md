@@ -64,7 +64,7 @@ Feel free to contribute by opening issues and pull requests. Follow the standard
 5. Open a pull request  
 
 ## 📜 License  
-This project is licensed under the MIT License - see the [./](https://github.com/1tsZaid/Medical-RAG/LICENSE)LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/1tsZaid/Medical-RAG/blob/main/LICENSE) file for details.
 
 ## 📞 Contact  
 - **GitHub:** https://github.com/1tsZaid 
