@@ -64,8 +64,8 @@ Feel free to contribute by opening issues and pull requests. Follow the standard
 5. Open a pull request  
 
 ## 📜 License  
-This project is licensed under the MIT License - see the ./https://github.com/LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Contact  
-- **GitHub:** (https://github.com/1tsZaid)  
+- **GitHub:** https://github.com/1tsZaid 
 - **Email:** zaidasif011@example.com  
