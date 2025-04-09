@@ -49,7 +49,7 @@ This project uses **Poetry** for dependency management. The required packages ar
 [tool.poetry.dependencies]
 sentence-transformers = ">=3.4.1,<4.0.0"
 pinecone-text = ">=0.10.0,<0.11.0"
-pinecone["grpc"]= ">=6.0.2,<7.0.0"}
+pinecone = { version = ">=6.0.2,<7.0.0", extras = ["grpc"] }
 dotenv = ">=0.9.9,<0.10.0"
 google-genai = ">=1.7.0,<2.0.0"
 streamlit = ">=1.43.2,<2.0.0"
